@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  min-height: 100vh;
+  background: #ffffff;
+  color: #1f2937;
+  display: flex;
+  justify-content: center;
+  padding: 48px 16px;
+}
+
+.container {
+  width: 100%;
+  max-width: 420px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 1.6rem;
+  color: #1e3c72;
+  margin-bottom: 20px;
+}
+
+.search-box {
+  display: flex;
+  gap: 8px;
+}
+
+.search-box input {
+  flex: 1;
+  padding: 12px 14px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 1rem;
+  outline: none;
+}
+
+.search-box input:focus {
+  border-color: #1e3c72;
+}
+
+.search-box button {
+  padding: 12px 18px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  background: #1e3c72;
+  color: #fff;
+}
+
+.search-box button:hover {
+  opacity: 0.85;
+}
+
+.error {
+  background: #fee2e2;
+  color: #b91c1c;
+  padding: 10px 14px;
+  border-radius: 8px;
+  margin-top: 14px;
+  font-size: 0.95rem;
+}
+
+.loading {
+  text-align: center;
+  padding: 32px 0;
+  color: #6b7280;
+}
+
+main {
+  margin-top: 32px;
+  text-align: center;
+}
+
+#city-name {
+  font-size: 1.4rem;
+}
+
+#country-name,
+#local-date {
+  font-size: 0.9rem;
+  opacity: 0.65;
+  margin-top: 2px;
+}
+
+#temperature {
+  font-size: 3.2rem;
+  font-weight: 300;
+  margin-top: 10px;
+}
+
+#description {
+  opacity: 0.8;
+}
+
+#forecast-list {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+  margin-top: 28px;
+}
+
+.forecast-day {
+  padding: 10px 2px;
+  border-top: 1px solid #e5e7eb;
+}
+
+.forecast-day .day {
+  font-size: 0.75rem;
+  font-weight: 600;
+  opacity: 0.7;
+}
+
+.forecast-day .icon {
+  font-size: 1.3rem;
+  margin: 6px 0;
+}
+
+.forecast-day .temp {
+  font-size: 0.85rem;
+}
+
+.forecast-day .temp .min {
+  opacity: 0.5;
+}
+
+.hidden {
+  display: none;
+}

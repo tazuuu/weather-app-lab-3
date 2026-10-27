@@ -1,0 +1,1685 @@
+{
+  "generatedAt": "2026-10-06T06:21:59.120Z",
+  "cities": {
+    "puducherry": {
+      "city": "Puducherry",
+      "country": "India",
+      "timezone": "Asia/Kolkata",
+      "current": {
+        "temperature": 33,
+        "feelsLike": 33,
+        "humidity": 63,
+        "windSpeed": 24,
+        "windDirection": "W",
+        "pressure": 1001,
+        "rain": 8,
+        "uvIndex": 9,
+        "description": "Clear sky",
+        "icon": "☀️",
+        "updatedAt": "2026-10-06T06:21:59.111Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 26,
+          "min": 17,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 32,
+          "min": 28,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 28,
+          "min": 23,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 27,
+          "min": 18,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 34,
+          "min": 24,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 36,
+          "min": 27,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 32,
+          "min": 25,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        }
+      ]
+    },
+    "mumbai": {
+      "city": "Mumbai",
+      "country": "India",
+      "timezone": "Asia/Kolkata",
+      "current": {
+        "temperature": 33,
+        "feelsLike": 35,
+        "humidity": 49,
+        "windSpeed": 9,
+        "windDirection": "N",
+        "pressure": 997,
+        "rain": 8,
+        "uvIndex": 11,
+        "description": "Overcast",
+        "icon": "☁️",
+        "updatedAt": "2026-10-06T06:21:59.113Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 31,
+          "min": 22,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 32,
+          "min": 23,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 27,
+          "min": 17,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 27,
+          "min": 18,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 38,
+          "min": 31,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 33,
+          "min": 28,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 26,
+          "min": 16,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        }
+      ]
+    },
+    "delhi": {
+      "city": "Delhi",
+      "country": "India",
+      "timezone": "Asia/Kolkata",
+      "current": {
+        "temperature": 38,
+        "feelsLike": 41,
+        "humidity": 83,
+        "windSpeed": 15,
+        "windDirection": "E",
+        "pressure": 1010,
+        "rain": 2,
+        "uvIndex": 7,
+        "description": "Partly cloudy",
+        "icon": "⛅",
+        "updatedAt": "2026-10-06T06:21:59.113Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 37,
+          "min": 33,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 29,
+          "min": 23,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 30,
+          "min": 24,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 30,
+          "min": 25,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 35,
+          "min": 31,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 39,
+          "min": 32,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 31,
+          "min": 27,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        }
+      ]
+    },
+    "chennai": {
+      "city": "Chennai",
+      "country": "India",
+      "timezone": "Asia/Kolkata",
+      "current": {
+        "temperature": 29,
+        "feelsLike": 31,
+        "humidity": 93,
+        "windSpeed": 9,
+        "windDirection": "E",
+        "pressure": 1002,
+        "rain": 8,
+        "uvIndex": 7,
+        "description": "Overcast",
+        "icon": "☁️",
+        "updatedAt": "2026-10-06T06:21:59.113Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 30,
+          "min": 24,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 28,
+          "min": 24,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 39,
+          "min": 32,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 39,
+          "min": 29,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 30,
+          "min": 20,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 34,
+          "min": 27,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 29,
+          "min": 19,
+          "rainChance": 85,
+          "description": "Thunderstorm",
+          "icon": "⛈️"
+        }
+      ]
+    },
+    "london": {
+      "city": "London",
+      "country": "United Kingdom",
+      "timezone": "Europe/London",
+      "current": {
+        "temperature": 20,
+        "feelsLike": 23,
+        "humidity": 46,
+        "windSpeed": 19,
+        "windDirection": "N",
+        "pressure": 1009,
+        "rain": 1,
+        "uvIndex": 4,
+        "description": "Rain showers",
+        "icon": "🌧️",
+        "updatedAt": "2026-10-06T06:21:59.115Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 18,
+          "min": 10,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 13,
+          "min": 6,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 17,
+          "min": 12,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 14,
+          "min": 5,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 12,
+          "min": 8,
+          "rainChance": 0,
+          "description": "Clear sky",
+          "icon": "☀️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 17,
+          "min": 9,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 14,
+          "min": 10,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        }
+      ]
+    },
+    "paris": {
+      "city": "Paris",
+      "country": "France",
+      "timezone": "Europe/Paris",
+      "current": {
+        "temperature": 16,
+        "feelsLike": 16,
+        "humidity": 49,
+        "windSpeed": 40,
+        "windDirection": "W",
+        "pressure": 1004,
+        "rain": 2,
+        "uvIndex": 8,
+        "description": "Thunderstorm",
+        "icon": "⛈️",
+        "updatedAt": "2026-10-06T06:21:59.115Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 15,
+          "min": 7,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 11,
+          "min": 4,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 15,
+          "min": 6,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 20,
+          "min": 12,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 20,
+          "min": 16,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 16,
+          "min": 12,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 15,
+          "min": 7,
+          "rainChance": 0,
+          "description": "Clear sky",
+          "icon": "☀️"
+        }
+      ]
+    },
+    "berlin": {
+      "city": "Berlin",
+      "country": "Germany",
+      "timezone": "Europe/Berlin",
+      "current": {
+        "temperature": 15,
+        "feelsLike": 15,
+        "humidity": 65,
+        "windSpeed": 4,
+        "windDirection": "S",
+        "pressure": 1021,
+        "rain": 2,
+        "uvIndex": 6,
+        "description": "Overcast",
+        "icon": "☁️",
+        "updatedAt": "2026-10-06T06:21:59.116Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 21,
+          "min": 17,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 14,
+          "min": 10,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 12,
+          "min": 7,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 19,
+          "min": 12,
+          "rainChance": 0,
+          "description": "Clear sky",
+          "icon": "☀️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 15,
+          "min": 7,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 17,
+          "min": 8,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 14,
+          "min": 4,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        }
+      ]
+    },
+    "madrid": {
+      "city": "Madrid",
+      "country": "Spain",
+      "timezone": "Europe/Madrid",
+      "current": {
+        "temperature": 33,
+        "feelsLike": 33,
+        "humidity": 61,
+        "windSpeed": 18,
+        "windDirection": "NW",
+        "pressure": 1022,
+        "rain": 1,
+        "uvIndex": 3,
+        "description": "Rain showers",
+        "icon": "🌧️",
+        "updatedAt": "2026-10-06T06:21:59.116Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 22,
+          "min": 16,
+          "rainChance": 0,
+          "description": "Clear sky",
+          "icon": "☀️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 24,
+          "min": 15,
+          "rainChance": 85,
+          "description": "Thunderstorm",
+          "icon": "⛈️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 28,
+          "min": 23,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 22,
+          "min": 14,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 29,
+          "min": 25,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 27,
+          "min": 19,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 29,
+          "min": 25,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        }
+      ]
+    },
+    "moscow": {
+      "city": "Moscow",
+      "country": "Russia",
+      "timezone": "Europe/Moscow",
+      "current": {
+        "temperature": 8,
+        "feelsLike": 8,
+        "humidity": 88,
+        "windSpeed": 16,
+        "windDirection": "N",
+        "pressure": 1019,
+        "rain": 3,
+        "uvIndex": 4,
+        "description": "Clear sky",
+        "icon": "☀️",
+        "updatedAt": "2026-10-06T06:21:59.116Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 9,
+          "min": 0,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 13,
+          "min": 6,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 16,
+          "min": 6,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 10,
+          "min": 5,
+          "rainChance": 0,
+          "description": "Clear sky",
+          "icon": "☀️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 12,
+          "min": 7,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 7,
+          "min": 2,
+          "rainChance": 0,
+          "description": "Clear sky",
+          "icon": "☀️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 17,
+          "min": 12,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        }
+      ]
+    },
+    "new york": {
+      "city": "New York",
+      "country": "United States",
+      "timezone": "America/New_York",
+      "current": {
+        "temperature": 28,
+        "feelsLike": 28,
+        "humidity": 58,
+        "windSpeed": 25,
+        "windDirection": "NW",
+        "pressure": 1002,
+        "rain": 5,
+        "uvIndex": 10,
+        "description": "Snow showers",
+        "icon": "🌨️",
+        "updatedAt": "2026-10-06T06:21:59.117Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 20,
+          "min": 14,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 29,
+          "min": 21,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 24,
+          "min": 18,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 21,
+          "min": 14,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 19,
+          "min": 9,
+          "rainChance": 85,
+          "description": "Thunderstorm",
+          "icon": "⛈️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 27,
+          "min": 18,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 17,
+          "min": 10,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        }
+      ]
+    },
+    "san francisco": {
+      "city": "San Francisco",
+      "country": "United States",
+      "timezone": "America/Los_Angeles",
+      "current": {
+        "temperature": 22,
+        "feelsLike": 22,
+        "humidity": 69,
+        "windSpeed": 40,
+        "windDirection": "NW",
+        "pressure": 1011,
+        "rain": 7,
+        "uvIndex": 6,
+        "description": "Sunny",
+        "icon": "☀️",
+        "updatedAt": "2026-10-06T06:21:59.117Z",
+        "localDate": "Monday 5 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 25,
+          "min": 18,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 16,
+          "min": 10,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 25,
+          "min": 16,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 18,
+          "min": 14,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 19,
+          "min": 11,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 17,
+          "min": 13,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 16,
+          "min": 6,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        }
+      ]
+    },
+    "toronto": {
+      "city": "Toronto",
+      "country": "Canada",
+      "timezone": "America/Toronto",
+      "current": {
+        "temperature": 19,
+        "feelsLike": 19,
+        "humidity": 44,
+        "windSpeed": 8,
+        "windDirection": "N",
+        "pressure": 1000,
+        "rain": 6,
+        "uvIndex": 3,
+        "description": "Overcast",
+        "icon": "☁️",
+        "updatedAt": "2026-10-06T06:21:59.118Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 23,
+          "min": 17,
+          "rainChance": 85,
+          "description": "Thunderstorm",
+          "icon": "⛈️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 18,
+          "min": 9,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 21,
+          "min": 17,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 21,
+          "min": 17,
+          "rainChance": 0,
+          "description": "Clear sky",
+          "icon": "☀️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 21,
+          "min": 13,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 19,
+          "min": 15,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 17,
+          "min": 11,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        }
+      ]
+    },
+    "tokyo": {
+      "city": "Tokyo",
+      "country": "Japan",
+      "timezone": "Asia/Tokyo",
+      "current": {
+        "temperature": 20,
+        "feelsLike": 24,
+        "humidity": 54,
+        "windSpeed": 13,
+        "windDirection": "S",
+        "pressure": 997,
+        "rain": 3,
+        "uvIndex": 9,
+        "description": "Foggy",
+        "icon": "🌫️",
+        "updatedAt": "2026-10-06T06:21:59.118Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 20,
+          "min": 16,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 20,
+          "min": 13,
+          "rainChance": 85,
+          "description": "Thunderstorm",
+          "icon": "⛈️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 20,
+          "min": 14,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 30,
+          "min": 20,
+          "rainChance": 0,
+          "description": "Clear sky",
+          "icon": "☀️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 28,
+          "min": 21,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 21,
+          "min": 12,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 28,
+          "min": 23,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        }
+      ]
+    },
+    "seoul": {
+      "city": "Seoul",
+      "country": "South Korea",
+      "timezone": "Asia/Seoul",
+      "current": {
+        "temperature": 26,
+        "feelsLike": 27,
+        "humidity": 82,
+        "windSpeed": 12,
+        "windDirection": "N",
+        "pressure": 1011,
+        "rain": 7,
+        "uvIndex": 10,
+        "description": "Thunderstorm",
+        "icon": "⛈️",
+        "updatedAt": "2026-10-06T06:21:59.118Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 27,
+          "min": 21,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 17,
+          "min": 10,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 24,
+          "min": 14,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 22,
+          "min": 14,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 26,
+          "min": 16,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 24,
+          "min": 14,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 24,
+          "min": 20,
+          "rainChance": 85,
+          "description": "Thunderstorm",
+          "icon": "⛈️"
+        }
+      ]
+    },
+    "singapore": {
+      "city": "Singapore",
+      "country": "Singapore",
+      "timezone": "Asia/Singapore",
+      "current": {
+        "temperature": 29,
+        "feelsLike": 32,
+        "humidity": 63,
+        "windSpeed": 11,
+        "windDirection": "W",
+        "pressure": 995,
+        "rain": 3,
+        "uvIndex": 12,
+        "description": "Partly cloudy",
+        "icon": "⛅",
+        "updatedAt": "2026-10-06T06:21:59.119Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 29,
+          "min": 20,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 31,
+          "min": 26,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 25,
+          "min": 20,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 30,
+          "min": 25,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 32,
+          "min": 22,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 31,
+          "min": 25,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 29,
+          "min": 24,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        }
+      ]
+    },
+    "sydney": {
+      "city": "Sydney",
+      "country": "Australia",
+      "timezone": "Australia/Sydney",
+      "current": {
+        "temperature": 28,
+        "feelsLike": 30,
+        "humidity": 71,
+        "windSpeed": 12,
+        "windDirection": "W",
+        "pressure": 997,
+        "rain": 7,
+        "uvIndex": 7,
+        "description": "Light rain",
+        "icon": "🌦️",
+        "updatedAt": "2026-10-06T06:21:59.119Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 30,
+          "min": 26,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 26,
+          "min": 16,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 24,
+          "min": 14,
+          "rainChance": 25,
+          "description": "Overcast",
+          "icon": "☁️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 28,
+          "min": 19,
+          "rainChance": 0,
+          "description": "Clear sky",
+          "icon": "☀️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 22,
+          "min": 12,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 21,
+          "min": 11,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 25,
+          "min": 17,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        }
+      ]
+    },
+    "dubai": {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "timezone": "Asia/Dubai",
+      "current": {
+        "temperature": 32,
+        "feelsLike": 36,
+        "humidity": 85,
+        "windSpeed": 26,
+        "windDirection": "E",
+        "pressure": 1004,
+        "rain": 0,
+        "uvIndex": 2,
+        "description": "Clear sky",
+        "icon": "☀️",
+        "updatedAt": "2026-10-06T06:21:59.119Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 43,
+          "min": 34,
+          "rainChance": 85,
+          "description": "Thunderstorm",
+          "icon": "⛈️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 41,
+          "min": 31,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 35,
+          "min": 28,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 43,
+          "min": 37,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 37,
+          "min": 27,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 35,
+          "min": 30,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 43,
+          "min": 38,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        }
+      ]
+    },
+    "cairo": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "timezone": "Africa/Cairo",
+      "current": {
+        "temperature": 25,
+        "feelsLike": 26,
+        "humidity": 36,
+        "windSpeed": 14,
+        "windDirection": "N",
+        "pressure": 1018,
+        "rain": 8,
+        "uvIndex": 1,
+        "description": "Snow showers",
+        "icon": "🌨️",
+        "updatedAt": "2026-10-06T06:21:59.120Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 29,
+          "min": 23,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 27,
+          "min": 18,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 31,
+          "min": 25,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 30,
+          "min": 26,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 35,
+          "min": 28,
+          "rainChance": 0,
+          "description": "Sunny",
+          "icon": "☀️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 30,
+          "min": 23,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 33,
+          "min": 28,
+          "rainChance": 70,
+          "description": "Snow showers",
+          "icon": "🌨️"
+        }
+      ]
+    },
+    "nairobi": {
+      "city": "Nairobi",
+      "country": "Kenya",
+      "timezone": "Africa/Nairobi",
+      "current": {
+        "temperature": 23,
+        "feelsLike": 25,
+        "humidity": 64,
+        "windSpeed": 27,
+        "windDirection": "N",
+        "pressure": 1007,
+        "rain": 4,
+        "uvIndex": 12,
+        "description": "Sunny",
+        "icon": "☀️",
+        "updatedAt": "2026-10-06T06:21:59.120Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 29,
+          "min": 21,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 27,
+          "min": 21,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 22,
+          "min": 18,
+          "rainChance": 75,
+          "description": "Rain showers",
+          "icon": "🌧️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 23,
+          "min": 15,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 32,
+          "min": 22,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 31,
+          "min": 25,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 24,
+          "min": 14,
+          "rainChance": 15,
+          "description": "Cloudy",
+          "icon": "☁️"
+        }
+      ]
+    },
+    "rio de janeiro": {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "timezone": "America/Sao_Paulo",
+      "current": {
+        "temperature": 29,
+        "feelsLike": 30,
+        "humidity": 67,
+        "windSpeed": 18,
+        "windDirection": "NW",
+        "pressure": 1024,
+        "rain": 5,
+        "uvIndex": 10,
+        "description": "Foggy",
+        "icon": "🌫️",
+        "updatedAt": "2026-10-06T06:21:59.120Z",
+        "localDate": "Tuesday 6 October"
+      },
+      "forecast": [
+        {
+          "day": "Tue",
+          "date": "2026-10-06",
+          "max": 27,
+          "min": 21,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Wed",
+          "date": "2026-10-07",
+          "max": 25,
+          "min": 18,
+          "rainChance": 60,
+          "description": "Light rain",
+          "icon": "🌦️"
+        },
+        {
+          "day": "Thu",
+          "date": "2026-10-08",
+          "max": 36,
+          "min": 27,
+          "rainChance": 0,
+          "description": "Clear sky",
+          "icon": "☀️"
+        },
+        {
+          "day": "Fri",
+          "date": "2026-10-09",
+          "max": 30,
+          "min": 20,
+          "rainChance": 10,
+          "description": "Foggy",
+          "icon": "🌫️"
+        },
+        {
+          "day": "Sat",
+          "date": "2026-10-10",
+          "max": 32,
+          "min": 26,
+          "rainChance": 85,
+          "description": "Thunderstorm",
+          "icon": "⛈️"
+        },
+        {
+          "day": "Sun",
+          "date": "2026-10-11",
+          "max": 31,
+          "min": 25,
+          "rainChance": 10,
+          "description": "Partly cloudy",
+          "icon": "⛅"
+        },
+        {
+          "day": "Mon",
+          "date": "2026-10-12",
+          "max": 34,
+          "min": 27,
+          "rainChance": 85,
+          "description": "Thunderstorm",
+          "icon": "⛈️"
+        }
+      ]
+    }
+  }
+}

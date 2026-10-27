@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Weather</h1>
+
+    <div class="search-box">
+      <input type="text" id="city-input" placeholder="Enter a city" autocomplete="off">
+      <button id="search-btn">Search</button>
+    </div>
+
+    <p id="error" class="error hidden"></p>
+    <div id="loading" class="loading hidden">Loading...</div>
+
+    <main id="weather" class="hidden">
+      <h2 id="city-name">--</h2>
+      <p id="country-name">--</p>
+      <p id="local-date">--</p>
+      <p id="temperature">--</p>
+      <p id="description">--</p>
+
+      <div id="forecast-list"></div>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
